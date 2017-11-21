@@ -1,0 +1,38 @@
+.navbar.scrolled {
+  background-color: transparent;
+  background: transparent;
+  border-color: transparent;
+}
+.grey {
+  color: #5B5B5B;
+}
+.light_grey {
+  color: #959595;
+}
+.shadow{
+  -webkit-box-shadow: 0px 3px 10px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 3px 10px -5px rgba(0,0,0,0.75);
+  box-shadow: 0px 3px 10px -5px rgba(0,0,0,0.75);
+}
+#by{
+  padding-right: 5px;
+}
+.text-align{
+  padding-top: 4px;
+  padding-left: 5px;
+}
+.icon-pad{
+  padding-left: 10px;
+}
+#event_detail_img{
+  background-attachment: fixed;
+}
+@media (min-width:845px) {
+  .card:nth-child(odd) {
+    margin-right: 40px;
+    margin-left: 60px;
+  }
+}
+p{
+  margin-bottom: 3000px;
+}
